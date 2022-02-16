@@ -15,7 +15,7 @@
 
 Este projeto foi realizado com o intuito de colocar em práticas conhecimentos sobre html, css e javascript.
 
-### 🛠 Tecnologias
+### Tecnologias 🛠
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -23,5 +23,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [CSS]
 - [JavaScript]
 
-Autor <br>
+### Autor <br>
 Rodrigo Andrade 🚀
