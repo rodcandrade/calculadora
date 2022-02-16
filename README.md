@@ -13,7 +13,8 @@
 
 ### Objetivo
 
-Este projeto foi realizado com o intuito de colocar em práticas conhecimentos sobre html, css e javascript.
+Este projeto foi realizado com o intuito de colocar em práticas conhecimentos sobre html, css e javascript. 
+Darkmode e Lightmode opcional.
 
 ### Tecnologias 🛠
 
